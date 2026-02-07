@@ -2,4 +2,4 @@ django
 pillow
 gunicorn
 whitenoise
-djang0-import-export
+django-import-export
